@@ -1,2 +1,3 @@
 # feelink_ios_app
-필링크 앱 개발 swift
+필링크 ios
+앱 개발 swift
